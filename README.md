@@ -17,5 +17,4 @@ Photos- all photos in one place
 2. Better resource organizer for school and resources around the community. 
 
 
-
 ![](https://imgur.com/a/rWs2pXC.gif)
